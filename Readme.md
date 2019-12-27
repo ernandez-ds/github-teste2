@@ -1,6 +1,6 @@
-#Git
+# Git #
 
-##O que é controle de versões?
+## O que é controle de versões? ##
 
 O controle de versões pode ser descrito como uma sistemática para gerenciar as
 diferentes partes, versões e modificações no desenvolvimento de um documento qualquer,
